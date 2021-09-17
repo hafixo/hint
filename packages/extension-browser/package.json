@@ -92,9 +92,9 @@
     "typed-css-modules": "^0.6.4",
     "typescript": "^4.0.2",
     "util.promisify": "^1.0.1",
-    "web-ext": "^5.0.0",
+    "web-ext": "^6.0.0",
     "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "^4.0.0"
   },
   "files": [
     "images"
